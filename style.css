@@ -68,7 +68,7 @@ nav ul li a.active {
 /* ===== HERO ===== */
 .hero {
   background: linear-gradient(rgba(20, 70, 120, 0.4), rgba(20, 70, 120, 0.4)),
-              url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Liege-Outremeuse_aerial2.jpg/1280px-Liege-Outremeuse_aerial2.jpg') center/cover no-repeat;
+              url('liege.jpg') center/cover no-repeat;
   color: #fff;
   text-align: center;
   padding: 7rem 2rem 6rem;
